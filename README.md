@@ -9,7 +9,9 @@ A simple web-based calculator built using HTML, CSS, and JavaScript. This projec
 - Responsive design for various screen sizes.
 
 ## Screenshots
-![Calculator Screenshot](![Screenshot 2024-07-18 232934] (https://github.com/user-attachments/assets/3038d733-3e03-4ece-8b72-d9c9e307368e)
+![Calculator Screenshot](![Screenshot 2024-07-18 232934] ![Calculator image](https://github.com/user-attachments/assets/fbed66f7-7796-448c-8ade-fb4c7ed54b31)
+
+
 
 
 ## Installation
